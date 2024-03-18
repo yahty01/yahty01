@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="https://www.codewars.com/users/yahty">
+  <a style ="margin = 3%;" href="https://www.codewars.com/users/yahty">
     <img src="https://www.codewars.com/users/yahty/badges/micro"/>
   </a><br>
       <a href="https://t.me/Sonolbol">
