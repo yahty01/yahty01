@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="https://www.codewars.com/users/yahty/badges/micro">
-    <img src="https://img.shields.io/badge/Codewars-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars Badge"/>
+  <a href="https://www.codewars.com/users/yahty01">
+    <img src="https://www.codewars.com/users/yahty/badges/micro"/>
   </a>
       <a href="https://t.me/Sonolbol">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
